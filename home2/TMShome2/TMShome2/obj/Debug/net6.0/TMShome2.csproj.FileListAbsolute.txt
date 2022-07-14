@@ -1,0 +1,15 @@
+D:\TeachMeSkills\TMSHomeworks\home2\TMShome2\TMShome2\bin\Debug\net6.0\TMShome2.exe
+D:\TeachMeSkills\TMSHomeworks\home2\TMShome2\TMShome2\bin\Debug\net6.0\TMShome2.deps.json
+D:\TeachMeSkills\TMSHomeworks\home2\TMShome2\TMShome2\bin\Debug\net6.0\TMShome2.runtimeconfig.json
+D:\TeachMeSkills\TMSHomeworks\home2\TMShome2\TMShome2\bin\Debug\net6.0\TMShome2.dll
+D:\TeachMeSkills\TMSHomeworks\home2\TMShome2\TMShome2\bin\Debug\net6.0\TMShome2.pdb
+D:\TeachMeSkills\TMSHomeworks\home2\TMShome2\TMShome2\obj\Debug\net6.0\TMShome2.csproj.AssemblyReference.cache
+D:\TeachMeSkills\TMSHomeworks\home2\TMShome2\TMShome2\obj\Debug\net6.0\TMShome2.GeneratedMSBuildEditorConfig.editorconfig
+D:\TeachMeSkills\TMSHomeworks\home2\TMShome2\TMShome2\obj\Debug\net6.0\TMShome2.AssemblyInfoInputs.cache
+D:\TeachMeSkills\TMSHomeworks\home2\TMShome2\TMShome2\obj\Debug\net6.0\TMShome2.AssemblyInfo.cs
+D:\TeachMeSkills\TMSHomeworks\home2\TMShome2\TMShome2\obj\Debug\net6.0\TMShome2.csproj.CoreCompileInputs.cache
+D:\TeachMeSkills\TMSHomeworks\home2\TMShome2\TMShome2\obj\Debug\net6.0\TMShome2.dll
+D:\TeachMeSkills\TMSHomeworks\home2\TMShome2\TMShome2\obj\Debug\net6.0\refint\TMShome2.dll
+D:\TeachMeSkills\TMSHomeworks\home2\TMShome2\TMShome2\obj\Debug\net6.0\TMShome2.pdb
+D:\TeachMeSkills\TMSHomeworks\home2\TMShome2\TMShome2\obj\Debug\net6.0\TMShome2.genruntimeconfig.cache
+D:\TeachMeSkills\TMSHomeworks\home2\TMShome2\TMShome2\obj\Debug\net6.0\ref\TMShome2.dll
