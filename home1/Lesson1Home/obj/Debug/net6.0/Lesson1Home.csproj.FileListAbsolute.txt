@@ -1,0 +1,15 @@
+D:\TeachMeSkills\Lesson1Home\Lesson1Home\bin\Debug\net6.0\Lesson1Home.exe
+D:\TeachMeSkills\Lesson1Home\Lesson1Home\bin\Debug\net6.0\Lesson1Home.deps.json
+D:\TeachMeSkills\Lesson1Home\Lesson1Home\bin\Debug\net6.0\Lesson1Home.runtimeconfig.json
+D:\TeachMeSkills\Lesson1Home\Lesson1Home\bin\Debug\net6.0\Lesson1Home.dll
+D:\TeachMeSkills\Lesson1Home\Lesson1Home\bin\Debug\net6.0\Lesson1Home.pdb
+D:\TeachMeSkills\Lesson1Home\Lesson1Home\obj\Debug\net6.0\Lesson1Home.csproj.AssemblyReference.cache
+D:\TeachMeSkills\Lesson1Home\Lesson1Home\obj\Debug\net6.0\Lesson1Home.GeneratedMSBuildEditorConfig.editorconfig
+D:\TeachMeSkills\Lesson1Home\Lesson1Home\obj\Debug\net6.0\Lesson1Home.AssemblyInfoInputs.cache
+D:\TeachMeSkills\Lesson1Home\Lesson1Home\obj\Debug\net6.0\Lesson1Home.AssemblyInfo.cs
+D:\TeachMeSkills\Lesson1Home\Lesson1Home\obj\Debug\net6.0\Lesson1Home.csproj.CoreCompileInputs.cache
+D:\TeachMeSkills\Lesson1Home\Lesson1Home\obj\Debug\net6.0\Lesson1Home.dll
+D:\TeachMeSkills\Lesson1Home\Lesson1Home\obj\Debug\net6.0\refint\Lesson1Home.dll
+D:\TeachMeSkills\Lesson1Home\Lesson1Home\obj\Debug\net6.0\Lesson1Home.pdb
+D:\TeachMeSkills\Lesson1Home\Lesson1Home\obj\Debug\net6.0\Lesson1Home.genruntimeconfig.cache
+D:\TeachMeSkills\Lesson1Home\Lesson1Home\obj\Debug\net6.0\ref\Lesson1Home.dll
